@@ -1,0 +1,30 @@
+body{
+    background: #DCDCDC;
+}
+div{
+    width:900px;
+    height:1000px;
+    background-color: snow;
+    text-align: center;
+    margin: 0 auto;
+    padding: 50px;
+}
+h{
+    font-family: 'Merriweather,' sans-serif;
+    font-size: 30pt;
+    color:darkred;
+}
+h1{
+    font-size: 30pt;
+}
+p{
+    font-size: 20pt;
+    font-family: monospace, sans-serif;
+}
+p1{
+    font-size: 40pt;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+}

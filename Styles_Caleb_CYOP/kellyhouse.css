@@ -1,0 +1,30 @@
+body{
+    background: #DCDCDC;
+}
+div{
+    width:900px;
+    height:1000px;
+    background-color: snow;
+    text-align: center;
+    margin: 0 auto;
+    padding: 50px;
+}
+h{
+    
+    font:darkred;
+}
+h1{
+    color: coral
+    font-size: 30pt;
+}
+p{
+    font-family: monospace;
+    font-size: 20pt;
+}
+p1{
+    font-size: 40pt;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+}
